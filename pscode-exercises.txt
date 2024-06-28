@@ -12,7 +12,10 @@ print on the screen the sum of those 2 numbers
 
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+enter a number
+/ number by 2
+if result has no remainder display even
+if result has remainder display odd
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
@@ -22,6 +25,13 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+enter 5 numbers
++ 5 numbers together
+/ total by 5
+display result
+
+enter 5 separate numbers
+arrange numbers from smallest to largest
+display smallest number and largest number
 
 -- END --
